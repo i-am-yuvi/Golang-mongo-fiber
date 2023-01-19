@@ -1,6 +1,6 @@
 module github.com/i-am-yuvi/Golang-mongo-fiber
 
-go 1.19
+go 1.16
 
 require (
 	github.com/gofiber/fiber/v2 v2.40.1
